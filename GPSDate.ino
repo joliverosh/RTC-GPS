@@ -1,7 +1,6 @@
 /* 
 */
- 
- 
+
 #include <TinyGPS++.h>        // include TinyGPS++ library
 #include <TimeLib.h>          // include Arduino time library
 #include <SoftwareSerial.h>   // include software serial library
